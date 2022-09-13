@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mediamela.xyz/uploads/live_tvs/bangla_visio_16098715378325.png",Bangla Vision
+https://cdn.mediamela.xyz:30443/tout/banglavision/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTJSGtj.png",Boishakhi TV
+https://cdn.mediamela.xyz:30443/tout/boishakhitv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png",BTV HD
+https://cdn.mediamela.xyz:30443/tout/btvbd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png",BTV WORLD
+https://cdn.mediamela.xyz:30443/tout/btvworld/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",Channel I HD
+https://cdn.mediamela.xyz:30443/tout/channeli/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png",DBC News
+https://cdn.mediamela.xyz:30443/tout/dbcnews/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png",Ekusey TV
+https://cdn.mediamela.xyz:30443/tout/etv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kviJN1i.png",Independent TV
+https://cdn.mediamela.xyz:30443/tout/independent/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FxsW4XI.png",News 24 HD
+https://cdn.mediamela.xyz:30443/tout/news24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/McQwv50.png",SATV
+https://cdn.mediamela.xyz:30443/tout/satv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png",Somoy TV
+https://cdn.mediamela.xyz:30443/tout/somoytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://mediamela.xyz/uploads/live_tvs/deepto_tv_16570251957543.jpg",Dipto TV
+https://cdn.mediamela.xyz:30443/tout/diptiotv/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9d1xXjN.png",Star Jalsha
+https://cdn.mediamela.xyz:30443/tout/startjalsha/chunks.m3u8
