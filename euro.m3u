@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://mediamela.xyz/uploads/live_tvs/bangla_visio_16098715378325.png",Bangla Vision
-https://cdn.mediamela.xyz:30443/tout/banglavision/chunks.m3u8
+https://live.bongobd.com/hls/XKPOQ2FNfUe3ibHyHWZiTw/1663451245/bangla_vision.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/pTJSGtj.png",Boishakhi TV
 https://cdn.mediamela.xyz:30443/tout/boishakhitv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imgur.com/H9qgGSc.png",BTV HD
