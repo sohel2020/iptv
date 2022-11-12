@@ -18,7 +18,7 @@ http://10.252.253.254/hls/indepen.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/FxsW4XI.png",News 24 HD
 https://cdn.mediamela.xyz:30443/tout/news24/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://imgur.com/McQwv50.png",SATV
-https://cdn.mediamela.xyz:30443/tout/satv/chunks.m3u8
+https://cdn.mediamela.xyz:3044/tout/satv/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/ds3aThu.jpg",Jamuna TV
 http://10.252.253.254/hls/jamuna.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png",Somoy TV
