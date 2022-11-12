@@ -43,7 +43,7 @@ http://jupiter.bdcabletv.com/Desh-TV/video.m3u8
 http://10.252.253.254/hls/nexus.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/9d1xXjN.png",Star Jalsha HD
-http://10.252.253.254/hls/starjalsha.m3u8
+http://172.16.29.250/hls/starjalsha.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/e5Ldh7e.png",Zee Bangla HD
 http://10.252.253.254/hls/zeebanglahd.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png",Jalsha Movies HD
