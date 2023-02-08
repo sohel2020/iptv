@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/sohel2020/iptv/compare/v1.1.0...v1.2.0) (2023-02-08)
+
+
+### Features
+
+* update readme feat 3 ([c83cb13](https://github.com/sohel2020/iptv/commit/c83cb13337daeb4e0a649cbcf51a2a4c113eb0c7))
+
 ## [1.1.0](https://github.com/sohel2020/iptv/compare/v1.0.0...v1.1.0) (2023-02-08)
 
 
