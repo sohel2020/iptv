@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://mediamela.xyz/uploads/live_tvs/bangla_visio_16098715378325.png",Bangla Vision
+http://172.19.178.59:18190/colorsbangla/tracks-v1/index.fmp4.m3u8?token=58028a2537001447ca212a2dce0195ac8ef9afb2-9c1fa87f9e0185a21741ad10cd658c1f-1746764246-1746753446
